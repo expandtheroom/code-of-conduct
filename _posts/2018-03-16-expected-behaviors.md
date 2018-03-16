@@ -10,7 +10,7 @@ Every member of the product team is expected to work hard, be considerate of the
 
 **Be collaborative.** Involve your colleagues in brainstorms, sketching sessions, code reviews, planning documents, and the like. It’s not only okay to ask for help or feedback often, it’s unacceptable not to do so. Don’t succumb to either impostor syndrome (believing that you don’t deserve to be here) or [blowhard syndrome](http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome) (believing you can do no wrong). Recognize that in addition to asking for feedback, you are similarly obligated to give it. 
 
-**Be generous and kind in both giving and accepting critique.** Critique is a natural and important part of our culture. Good critiques are kind, respectful, clear, and constructive, focused on goals and requirements rather than personal preferences. You are expected to give and receive criticism with grace. 
+**Be generous and kind in both giving and accepting critique.** Critique is a natural and important part of our culture. Good critiques are kind, respectful, clear, and constructive, focused on goals and requirements rather than personal preferences. You are expected to give and receive feedback with grace. 
 
 **Be respectful toward remote and IRL interactions alike.** Our team is remote most of the team. Even those of us who work alongside one another are routinely remote to others. Adopt habits that are inclusive and productive for team members wherever they are: make liberal use of video hangouts, document meetings and decisions thoroughly, be articulate and concise in email, Slack, and Asana exchanges, and be mindful of time zones and others’ commitments when scheduling events.
 
