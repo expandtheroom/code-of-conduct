@@ -1,23 +1,16 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <div class="l-main">
-      <div class="l-wrapper">
-        {{ content }}
-      </div>
-      <div class="m-logo">
-        <img src="/images/logo.jpg" class="center">
-      </div>
+<head>
+  <title></title>
+</head>
+<body>
+  {% include head.html %} {% include header.html %}
+  <div class="l-main">
+    <div class="l-wrapper">
+      {{ content }}
     </div>
-
-    {% include footer.html %}
-
-  </body>
-
+    <div class="m-logo"><a href="http://www.expandtheroom.com" target="_blank"><img class="center"
+         src="/images/logo-secondary.svg"></a></div>
+  </div>{% include footer.html %}
+</body>
 </html>
