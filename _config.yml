@@ -3,7 +3,7 @@ title: ETR Code of Conduct
 email: https://expandtheroom.com/contact/
 description: > # This code of conduct governs the environment of the ExpandTheRoom team.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://code-of-conduct.voxmedia.com" # the base hostname & protocol for your site
+url: "http://expandtheroom.github.io/code-of-conduct" # the base hostname & protocol for your site
 twitter_username: expandtheroom
 github_username:  expandtheroom
 instagram_username: expandtheroom

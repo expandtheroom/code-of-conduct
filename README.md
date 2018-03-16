@@ -1,6 +1,6 @@
 # ExpandTheRoom Code of Conduct
 
-The complete code of conduct can be read at [code-of-conduct.voxmedia.com](http://code-of-conduct.voxmedia.com)
+The complete code of conduct can be read at [expandtheroom.github.io/code-of-conduct](http://expandtheroom.github.io/code-of-conduct)
 
 
 ## Credit
