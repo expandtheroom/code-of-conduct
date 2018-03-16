@@ -4,7 +4,7 @@ title: Introduction
 date: 2018-03-16 00:10:00
 ---
 
-ExpandTheRoom (ETR) is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
+ExpandTheRoom (ETR) is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of team members in any form.
 
 This code of conduct applies to our interactions in various areas of our shared professional lives, including the ETR offices, off-site company events, our Slack and email exchanges, social media, pull request feedback, and industry conferences or other events where we represent ETR.
 
