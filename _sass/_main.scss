@@ -36,9 +36,7 @@ a {
 
 p,
 li {
-  font-family: "ff-tisa-web-pro", serif;
   font-size: $base-font-size;
-  font-weight: 400;
   line-height: 1.5;
   margin-bottom: 25px;
 }
@@ -65,6 +63,7 @@ img {
 
 // Layouts
 .l-main {
+  font-family: "ff-tisa-web", serif;
   overflow: hidden;
 }
 
