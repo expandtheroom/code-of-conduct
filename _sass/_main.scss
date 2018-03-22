@@ -1,7 +1,7 @@
 // Base
 body {
   color: $color-body;
-  font-family: "locator-web", Helvetica, Arial;
+  font-family: "locator-web", system, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
 }
 
 h2 {
-  font-family: "freight-sans-condensed-pro", Helvetica, Arial;
+  font-family: "freight-sans-condensed-pro", system, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 35px;
   font-weight: 600;
 }
@@ -38,19 +38,20 @@ p,
 li {
   font-size: $base-font-size;
   line-height: 1.5;
-  margin-bottom: 25px;
+  margin-bottom: 26px;
 }
 
 ul {
-  margin-bottom: 25px;
+  margin-bottom: 26px;
 }
 
 li {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 strong {
-  font-weight: 500;
+  font-family: "ff-tisa-web-pro", serif;
+  font-weight: 700;
 }
 
 em {

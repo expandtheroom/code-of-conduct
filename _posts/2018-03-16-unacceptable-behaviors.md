@@ -5,7 +5,7 @@ date: 2018-03-16 00:07:00
 ---
 
 ETR is committed to providing a welcoming and safe environment for people regardless of their gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, citizenship status, race, or religion. Discrimination and harassment are expressly prohibited in our employee handbook.
-
+<br><br><br>
 Harassment includes, but is not limited to:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
@@ -24,7 +24,7 @@ Harassment includes, but is not limited to:
 * Continued one-on-one communication after requests to cease.
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.
-
+<br><br><br>
 Much exclusionary behavior takes the form of microaggressions. These incidents are often considered too small to be reported, but contribute to the pervasive and damaging feeling that the recipient is a lesser member of their industry or community. These are often unconsciously delivered, but regardless of intent, can have a significant negative impact and have no place on our team.
 
 * Some examples of microaggressions:
@@ -35,8 +35,8 @@ Much exclusionary behavior takes the form of microaggressions. These incidents a
 * Assigning different labels to the same personality traits based on gender. E.g. a forceful, opinionated woman is labeled “aggressive” where a man with the same qualities is “ambitious.”
 * Tone policing, or responding negatively or dismissively to the emotion behind a person’s message while ignoring its content (e.g. telling someone who is discussing an issue that makes them upset to “calm down” instead of responding to their concerns).
 
-For more information on microaggressions, see The Atlantic. Or just watch "Get Out."
-
+For more information on microaggressions, see The Atlantic. Or just watch "Get Out."  
+<br><br><br>
 Several unwelcoming behaviors that occur frequently in the tech industry are worth calling out. These aren’t necessarily specific to treatment of minorities in tech, but cutting them out will go a long way towards making us all better people and communicators.
 
 * “Well, actuallys”—pedantic corrections that are often insulting and unproductive.
@@ -46,7 +46,7 @@ Several unwelcoming behaviors that occur frequently in the tech industry are wor
 * “Mansplaining,” or assuming complete and unfailing knowledge of a topic, even when your conversation partner is equally or more knowledgeable in that topic. Seriously, don’t be that person.
 * Excluding people from learning opportunities.
 * Dismissing legitimate concerns about communication as the recipient being “too sensitive.” 
-
+<br><br><br>
 Lastly, ExpandTheRoom prioritizes marginalized people’s safety over privileged people’s comfort. The leadership team reserves the right not to act on complaints regarding:
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia.’
