@@ -42,4 +42,4 @@ Several behaviors that occur frequently in the tech industry are also worth call
 * Assuming complete and unfailing knowledge of a topic, even when your conversation partner is equally or more knowledgeable in that topic. 
 * Excluding people from learning opportunities.
 * Dismissing legitimate concerns about communication as the recipient being “too sensitive.” 
-* Tone policing, described by Keith Bybee in *How Civility Works* as, “a means to deflect attention from injustice and relocate the problem in the style of the complaint, rather than address the complaint itself.”.
+* Tone policing, described by Keith Bybee in “How Civility Works” as, “a means to deflect attention from injustice and relocate the problem in the style of the complaint, rather than address the complaint itself.”.
