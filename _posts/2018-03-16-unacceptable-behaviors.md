@@ -19,7 +19,7 @@ Harassment includes, but is not limited to:
 * Photographing or recording a person without their knowledge or consent, including logging online activity for harassment purposes.
 * Deliberate misgendering or use of ‘dead’ or rejected names (if you don’t know which pronouns someone uses, politely ask).
 * Sustained interruptions or dismissals.
-* Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
+* Patterns of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
 * Continued one-on-one communication after requests to cease.
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.
